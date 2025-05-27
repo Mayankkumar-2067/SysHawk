@@ -17,3 +17,32 @@ SysHawk is a powerful Linux system scanner and auto-fix tool designed for SOC An
 1. Make the script executable:
 ```bash
 chmod +x syshawk.sh
+3. Choose scan type (Quick or Deep)
+
+
+
+Requirements
+
+Linux OS (Tested on Ubuntu, Kali Linux)
+
+Installed tools: chkrootkit, rkhunter, ufw, netstat, mailutils
+
+Proper email setup for sending alerts (using mail command)
+
+
+Disclaimer
+
+Use this tool responsibly and test on systems you own or have permission to analyze. The auto-fix feature applies simple fixes and should be reviewed before use.
+
+
+---
+
+Made with ❤️ by Mayank Kumar
+
+Uske baad:
+
+```bash
+git add README.md
+git commit -m "Add detailed README"
+git push
+
