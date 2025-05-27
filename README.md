@@ -16,7 +16,7 @@ SysHawk is a powerful Linux system scanner and auto-fix tool designed for SOC An
 
 1. Make the script executable:
 ```bash
-chmod +x syshawk.sh
+chmod +x Sys.sh
 3. Choose scan type (Quick or Deep)
 
 
