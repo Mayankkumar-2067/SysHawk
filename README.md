@@ -35,14 +35,5 @@ Disclaimer
 Use this tool responsibly and test on systems you own or have permission to analyze. The auto-fix feature applies simple fixes and should be reviewed before use.
 
 
----
 
 Made with ❤️ by Mayank Kumar
-
-Uske baad:
-
-```bash
-git add README.md
-git commit -m "Add detailed README"
-git push
-
