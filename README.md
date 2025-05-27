@@ -37,10 +37,3 @@ Use this tool responsibly and test on systems you own or have permission to anal
 
 
 Made with ❤️ by Mayank Kumar
-## Some Tools You Install On Your Kali Machine
-sudo apt install chkrootkit
-sudo apt install mailutils
-sudo apt install rkhunter
-sudo apt install ufw
-sudo apt install net-tools
-sudo apt install psmisc
