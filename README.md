@@ -36,4 +36,4 @@ Use this tool responsibly and test on systems you own or have permission to anal
 
 
 
-Made with ❤️ by Mayank Kumar
+Made with by Mayank Kumar
